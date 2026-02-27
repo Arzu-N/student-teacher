@@ -1,0 +1,2 @@
+rootProject.name = 'student-teacher'
+include 'student','teacher'
